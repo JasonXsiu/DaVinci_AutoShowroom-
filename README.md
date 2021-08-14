@@ -1,12 +1,12 @@
 # DaVinci_AutoShowroom
 
 # What is this application ?
-This Android Application is a Sport Car Showroom. 
+This Android Application is a Sport Car Showroom app. 
 
-# Why
+# Why is it created ?
 The company - DaVinci's PTL - possess a lot of limited version of Mercedes-BMG cars, which wants to be shown to a CAR FANANTIC like YOU!!!
 
-# How 
+# How is it presented ?
 Technologies / Libraries involed :
 - FireBase
 - Room Database
