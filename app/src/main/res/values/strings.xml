@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cars_App</string>
+    <string name="color">Color</string>
+    <string name="year">Year</string>
+    <string name="model">Model</string>
+    <string name="maker">Maker</string>
+    <string name="seats">Seats</string>
+    <string name="price">Price</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+</resources>

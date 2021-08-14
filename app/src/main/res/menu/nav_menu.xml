@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    ?xml version="1.0" encoding="utf-8"?>
+    <group>
+        <item
+            android:id="@+id/add_car"
+            android:title="Add Car" />
+        <item
+            android:id="@+id/remove_last_car"
+            android:title="Remove last car" />
+        <item
+            android:id="@+id/remove_all_car"
+            android:title="Remove All Cars" />
+        <item
+            android:id="@+id/list_all_items"
+            android:title="List all items" />
+    </group>
+</menu>
